@@ -1,0 +1,45 @@
+
+#main{
+    background-image:url(./Img/pexels-henry-&-co-1939485.jpg);
+}
+#active{
+    display: inline;
+   
+}
+#headshot{
+text-align: right;
+    font-size: 25px;
+    float: top right;
+   text-decoration: chartreuse;
+}
+
+
+h1{
+    color: blue;
+    text-decoration: underline;
+}
+h2{
+    color: darkcyan;
+    text-decoration: wavy;
+}
+h3{
+    color: brown;
+}
+
+img{
+    border: 1px solid grey;
+    border-radius: 200px;
+    margin: 8px;
+    padding: 2px;
+  
+}
+
+footer{
+    position: fixed;
+}
+
+footer{
+   color: red;
+   text-align: right;
+}
+
